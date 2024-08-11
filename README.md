@@ -1,4 +1,4 @@
-## Sintaxe - Desafio do Simulando Uma Conta Bancária Através Do Terminal/Console
+# Sintaxe - Desafio do Simulando Uma Conta Bancária Através Do Terminal/Console
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
